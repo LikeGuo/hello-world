@@ -1,2 +1,2 @@
 # hello-world
-lean
+leaning git
